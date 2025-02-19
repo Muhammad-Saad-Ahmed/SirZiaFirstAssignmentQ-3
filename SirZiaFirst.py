@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import pdfplumber
 import os
 import plotly.express as px
 from io import BytesIO
